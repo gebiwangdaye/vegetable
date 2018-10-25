@@ -1,0 +1,8 @@
+
+.vivo-search .search-box{width:700px;height:40px;position:absolute;top:20px;left:50%;margin-left:-350px;background:#666;-webkit-box-shadow:0 1px 2px rgb(0,0,0);-moz-box-shadow:0 1px 2px rgb(0,0,0);-ms-box-shadow:0 1px 2px rgb(0,0,0);box-shadow:0 1px 2px rgb(0,0,0);position:relative;z-index:9999;}
+.vivo-search .search-box input{width:550px;height:20px;padding:10px 20px;font-size:14px;color:#555;border:none;background:#fff;overflow:hidden;vertical-align:middle;}
+.vivo-search .search-box button{width:110px;height:40px;overflow:hidden;text-align:center;font-size:14px;color:#fff;border:none;overflow:hidden;vertical-align:middle;background:#008cd6;outline:none;cursor:pointer;-webkit-transition:background .2s ease-in-out;-moz-transition:background .2s ease-in-out;-ms-transition:background .2s ease-in-out;transition:background .2s ease-in-out;}
+.vivo-search .search-box button:hover{background:#0074b2;}
+.vivo-search .search-box button:active{-webkit-box-shadow:0 1px 2px rgba(0,0,0,.3) inset;-moz-box-shadow:0 1px 2px rgba(0,0,0,.3) inset;-ms-box-shadow:0 1px 2px rgba(0,0,0,.3) inset;box-shadow:0 1px 2px rgba(0,0,0,.3) inset;}
+.vivo-search .search-box a.close{width:24px;height:24px;position:absolute;top:8px;right:-40px;background:url(../images/vivo-head-ico.png) -86px 0 no-repeat;_background-image:url(../images/vivo-head-ico.gif);}
+.vivo-search .search-box a.close:hover{background-position:-86px -25px;}
